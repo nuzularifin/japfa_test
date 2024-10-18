@@ -48,4 +48,10 @@ The application is organized into the following layers:
    ```bash
    storage/emulated/0/app/~/ExportCSV (sample)
 
+4. This Version use kotlin KSP 
+    ```bash
+   Must update to ksp version (before version kapt)
+
+
+
 
