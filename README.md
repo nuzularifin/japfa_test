@@ -38,3 +38,14 @@ The application is organized into the following layers:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/simple-crud-app.git
+
+2. Login username and password static 
+   ```bash
+   username : admin
+   password : admin123
+
+3. For Export CSV on 
+   ```bash
+   storage/emulated/0/app/~/ExportCSV (sample)
+
+
