@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JapfaTest" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item> <!-- Text color on primary -->
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorOnSecondary">@color/white</item> <!-- Text color on secondary -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <!-- Custom TextInputLayout style -->
+    <style name="CustomTextInputLayout">
+        <item name="boxStrokeColor">@color/color_primary</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="hintEnabled">true</item>
+        <item name="hintAnimationEnabled">true</item>
+        <item name="boxBackgroundMode">outline</item>
+    </style>
+
+    <!-- Custom TextInputEditText style -->
+    <style name="CustomTextInputEditText">
+        <item name="android:backgroundTint">@android:color/transparent</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

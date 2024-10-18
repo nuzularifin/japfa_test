@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Japfa Test</string>
+    <string name="password_hint">password...</string>
+    <string name="username_hint">username...</string>
+    <string name="date_and_time_hint">Tanggal..</string>
+    <string name="full_name_hint">Nama Lengkap..</string>
+    <string name="full_name_label">Nama lengkap</string>
+    <string name="gender_label">Gender</string>
+    <string name="date_of_birth_label">Tanggal lahir</string>
+    <string name="date_of_birth_hint">Tanggal lahir...</string>
+    <string name="date_label">Tanggal</string>
+    <string name="label_save_data">Simpan data</string>
+    <string name="label_address">Alamat</string>
+    <string name="address_hint">Alamat...</string>
+    <string name="label_export">Export Data</string>
+    <string name="label_input_data">Masukan data dibawah ini :</string>
+    <string name="label_action">Menu</string>
+    <string name="label_empty_data">Data kosong</string>
+    <string name="label_login">Login</string>
+</resources>
